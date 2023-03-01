@@ -1,0 +1,21 @@
+    1  git clone https://github.com/Rzechca/wsb_pai.git
+    2  /dir
+    3  cd wsb_pai/
+    4  ls
+    5  alias c=clear
+    6  c
+    7  history > filehistory
+    8  git status
+    9  git add *
+   10  git status
+   11  git commit -m "Dodaje historie plikow"
+   12  git config --global user.email 'jakubwarzecha72@interia.pl"
+
+   13  git config --global user.email "jakubwarzecha72@interia.pl"
+   14  git config --global user.name "Kuba"
+   15  git commit -m "Dodaje historie plikow"
+   16  git status
+   17  c
+   18  git push origin main
+   19  history
+   20  history > historia.txt
